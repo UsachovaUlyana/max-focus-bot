@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+*.tmp
+.vscode/
+.idea/
+.txt
+# PostgreSQL data
+postgres-data/
+
+# Build artifacts
+*.tsbuildinfo
+
+
+# OS specific
+Thumbs.db
